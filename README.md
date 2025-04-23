@@ -33,4 +33,4 @@ This is just the beginning. I'm currently working on a broader project analysing
 
 ## 🗣️ Let’s chat!
 
-If you're into football analytics, player tracking, or just love breaking the game down like I do — feel free to connect or drop me a message. My LinkedIn is https://www.linkedin.com/in/sipheuvuyo-mngxunyeni-346552135/
+If you're into football analytics, player tracking, or just love breaking the game down like I do — feel free to connect or drop me a message. 
