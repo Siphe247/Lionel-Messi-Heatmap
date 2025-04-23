@@ -1,4 +1,4 @@
-# 🐐 Tracking Lionel Messi vs Getafe | 2018/19 La Liga Season
+# 🔮 Tracking Lionel Messi vs Getafe | 2018/19 La Liga Season
 
 ![image alt](https://github.com/Siphe247/Lionel-Messi-Heatmap/blob/f14cf501b378deafa256c42d1feda346e0041819/Lionel%20Messi%20vs%20Getafe.jpeg)
 
