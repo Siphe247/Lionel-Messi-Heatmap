@@ -1,12 +1,9 @@
-# Lionel-Messi-Heatmap
-Hi everyone, this is one of my first projects in sports analytics. As a starter, I decided to analyse Lionel Messi's movement against Getafe in the 2018/19 LaLiga season. 
-
 # 🐐 Tracking Lionel Messi vs Getafe | 2018/19 La Liga Season
 
-![image alt](https://github.com/Siphe247/Lionel-Messi-Heatmap/blob/a4ffd78474d57dd0956661a102ce17959ef4dc75/Lionel%20Messi%20vs%20Getafe.jpeg)
-Lionel Messi vs Getafe, 2018/19
+![image alt](['/Users/siphuvuyomngxunyeni/Downloads/Football Analytics/Lionel Messi vs Getafe.jpg'](https://github.com/Siphe247/Lionel-Messi-Heatmap/blob/main/Lionel%20Messi%20vs%20Getafe.jpeg?raw=true)![Uploading image.png…]()
+)
 
-## 📌 What’s this about?
+## 📌 What is this project about?
 
 This is a little side project I decided to take on — tracking Lionel Messi’s movement and involvement against Getafe during the 2018/19 La Liga season.
 
