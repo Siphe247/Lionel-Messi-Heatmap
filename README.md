@@ -1,7 +1,7 @@
 # 🐐 Tracking Lionel Messi vs Getafe | 2018/19 La Liga Season
 
-![image alt](['/Users/siphuvuyomngxunyeni/Downloads/Football Analytics/Lionel Messi vs Getafe.jpg'](https://github.com/Siphe247/Lionel-Messi-Heatmap/blob/main/Lionel%20Messi%20vs%20Getafe.jpeg?raw=true)![Uploading image.png…]()
-)
+![image alt](https://github.com/Siphe247/Lionel-Messi-Heatmap/blob/f14cf501b378deafa256c42d1feda346e0041819/Lionel%20Messi%20vs%20Getafe.jpeg)
+
 
 ## 📌 What is this project about?
 
